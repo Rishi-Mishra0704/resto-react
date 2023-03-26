@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resto-react/static/css/main.f7f249e4.css",
+    "main.js": "/resto-react/static/js/main.51ceda9f.js",
+    "static/media/meals.jpg": "/resto-react/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/resto-react/index.html",
+    "main.f7f249e4.css.map": "/resto-react/static/css/main.f7f249e4.css.map",
+    "main.51ceda9f.js.map": "/resto-react/static/js/main.51ceda9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f249e4.css",
+    "static/js/main.51ceda9f.js"
+  ]
+}
