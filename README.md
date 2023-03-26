@@ -53,7 +53,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀<h1><a name="Live-Demo" href = "https://rishi-mishra0704.github.io/resto-react/">Live Demo</a></h1>
+## 🚀**[Live demo]**<h1><a name="Live-Demo" href = "https://rishi-mishra0704.github.io/resto-react/">Live Demo</a></h1>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
