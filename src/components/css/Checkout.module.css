@@ -62,3 +62,21 @@
   border-color: #aa0b20;
   background-color: #ffeff1;
 }
+
+/* Media queries */
+@media screen and (max-width: 768px) {
+  .control input {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .actions {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
+  .actions button {
+    margin-top: 0.5rem;
+  }
+}
