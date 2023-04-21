@@ -53,7 +53,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## <h1>🚀Live Demo</h1><a name="Live-Demo" href = "https://resto-react-gr58.onrender.com">Click here</a>
+## <h1>🚀Live Demo</h1><a name="Live-Demo" href = "https://rishis-resto.onrender.com/">Click here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
